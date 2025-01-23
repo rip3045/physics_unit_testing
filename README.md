@@ -1,8 +1,8 @@
 # physics_unit_testing
 
 ## **A Unified Testing Framework for Candidate Theories of Physics**  
-**Author**: [Your Name]  
-**Date**: [Date]
+**Author**: Glen R. Merritt 
+**Date**: 2025-01-23
 
 ---
 
